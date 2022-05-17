@@ -1,5 +1,5 @@
 MyMenuApp
 
-Used basic Spring authentication
+Using basic Spring authentication
 
-Used inmenory DB - H2
+Using inmenory DB - H2
