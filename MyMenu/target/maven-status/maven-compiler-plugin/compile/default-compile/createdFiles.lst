@@ -1,0 +1,14 @@
+com\mymenu\service\RecipeService.class
+com\mymenu\exception\CustomizedException.class
+com\mymenu\userresponse\ReceipeResponse.class
+com\mymenu\bean\Menu.class
+com\mymenu\controller\RecipeController.class
+com\mymenu\repository\RecipeRepository.class
+com\mymenu\exception\NotFoundException.class
+com\mymenu\MyMenuApplication.class
+com\mymenu\config\ApplicationSecurityConfig.class
+com\mymenu\exception\ExceptionResponse.class
+com\mymenu\dto\IngredientsDto.class
+com\mymenu\config\Swagger2UiConfiguration.class
+com\mymenu\bean\Ingredients.class
+com\mymenu\dto\MenuDto.class
